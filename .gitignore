@@ -1,0 +1,7 @@
+berk.notes
+package-lock.json
+package.json
+
+dist/*
+node_modules/*
+.parcel-cache/*
